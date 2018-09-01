@@ -1,0 +1,8 @@
+server:
+  id:server1
+  port:8081
+engine:
+  app:
+    name: Service 1
+    url: /srv1
+    class: xx
