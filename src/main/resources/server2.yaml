@@ -1,8 +1,9 @@
-server:
-  id:server2
-  port:8082
-engine:
-  app:
+server: 
+  id: server2
+  port: 8082
+engine: 
+  app: 
     name: Service 2
-    url: /srv2
+    url: /customer
     class: xx
+path: src/main/resources/server2.yaml
